@@ -1,0 +1,24 @@
+<annotation>
+	<filename>J01_2018.06.19_15_39_39.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2560</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>puncture-hole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2291</xmin>
+			<ymin>130</ymin>
+			<xmax>2449</xmax>
+			<ymax>1816</ymax>
+		</bndbox>
+	</object>
+</annotation>
